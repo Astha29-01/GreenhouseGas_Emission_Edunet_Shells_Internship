@@ -1,4 +1,4 @@
-# 🌱 Greenhouse Gas Emission Prediction (IBM SkillsBuild - Week 2)
+# 🌱 Greenhouse Gas Emission Prediction 
 
 This project is part of the IBM SkillsBuild Virtual Internship program in collaboration with Edunet Foundation. The task was to build a machine learning model that predicts **Supply Chain Emission Factors with Margins** using various descriptive and quality metrics from industrial emission data.
 
@@ -103,3 +103,4 @@ This project successfully demonstrates how machine learning can support environm
 
 **Avilipsa Mahapatra**  
 IBM SkillsBuild Virtual Internship (Edunet Foundation)
+
