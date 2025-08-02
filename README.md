@@ -7,7 +7,7 @@ This project is part of the IBM SkillsBuild Virtual Internship program in collab
 ## 📁 Dataset
 
 - **Source:** Provided as part of internship resources
-- **File:** `SupplyChainEmissionFactorsforUSIndustriesCommodities.csv`
+- **File:** `SupplyChainEmissionFactorsforUSIndustriesCommodities.xlsx`
 - **Data Summary:** Annual supply chain emission data (2010–2016) categorized by U.S. industries and commodities.
 - **Target Variable:** `Supply Chain Emission Factors with Margins`
 
@@ -103,4 +103,5 @@ This project successfully demonstrates how machine learning can support environm
 
 **Avilipsa Mahapatra**  
 IBM SkillsBuild Virtual Internship (Edunet Foundation)
+
 
